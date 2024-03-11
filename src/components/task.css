@@ -1,0 +1,17 @@
+.display {
+  display: flex;
+  border: 1px solid;
+  width: 500px;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+}
+.displaynot {
+  display: flex;
+  border: 1px solid;
+  width: 500px;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+  background-color: green;
+}
